@@ -1,7 +1,3 @@
-# Discountinued Not managing anymore
-This was good project but unfortunatily i don't have enough time to manage this anymore.
-
-
 How to install
 
 1. copy phpcode in your www dir
